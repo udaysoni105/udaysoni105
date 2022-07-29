@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[
 ![images](https://user-images.githubusercontent.com/41944155/181758438-00f4ceeb-e8d6-4ab8-ae1a-6024f666076f.png) 
-]
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=udaysoni105)](https://github.com/anuraghazra/github-readme-stats)
