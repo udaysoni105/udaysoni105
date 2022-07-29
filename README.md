@@ -1,7 +1,7 @@
 ### 👋, MY NAME IS UDAYSONI...
 #### DATA SCIENCTIST/PYTHON
 
-
+![DATA SCIENCTIST]
 (https://pbs.twimg.com/profile_banners/1521873950535720960/1659099574/1080x360)
 
 👋 HI, I’M @udaysoni105
