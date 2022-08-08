@@ -31,8 +31,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=udaysoni105&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=udaysoni105)  
-
 ![GitHub metrics](https://metrics.lecoq.io/udaysoni105)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=udaysoni105)  
