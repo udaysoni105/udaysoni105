@@ -1,3 +1,28 @@
+<h3 align="center">
+  Welcome to Sahil Rajput's profile! 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&width=1000&lines=Java+Developer;Python+Developer;Data+scientist)](https://git.io/typing-svg)
+
+<img align="center" alt="GIF" src="https://github.com/sahilrajput2223/sahilrajput2223/blob/main/code.gif" width="100%" height = "100%" />
+
+<p align="center">
+  <b><i>Let's connect! Find me on the web.</i></b>
+  
+  [<img height="30" src="https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white" />][signal]
+  [<img height="30" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />][hashnode]
+  [<img height="30" src = "https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">][hackerrank] 
+  [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+  [<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"/>][gmail] 
+  [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+  [<img height="30" src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">][Instagram] 
+  [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/SahilRajput22)
+
+  
+  
+---
+
 ![DATA SCIENCTIST](https://pbs.twimg.com/profile_banners/1521873950535720960/1659099574/1080x360)
 
 - 👋 HI, I’M @udaysoni
