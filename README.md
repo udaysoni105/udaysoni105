@@ -98,4 +98,20 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=udaysoni105&show_icons=true)
 
-![Profile views](https://gpvc.arturio.dev/udaysoni105)  
+![Profile views](https://gpvc.arturio.dev/udaysoni105)
+
+---
+
+## 📊 Github Stats:
+
+<p align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilrajput2223&show_icons=true&theme=tokyonight&line_height=28">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilrajput2223&langs_count=10&layout=compact">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilrajput2223&hide_border=true">
+
+
+## 🃏 Joke:
+<!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
