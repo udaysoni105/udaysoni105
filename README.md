@@ -30,7 +30,7 @@
 
 ### Profile View:
 
-![Visitor Count](https://profile-counter.glitch.me/{sahilrajput2223}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{udaysoni105}/count.svg)
 
 ---
 
