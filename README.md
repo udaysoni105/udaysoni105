@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&width=1000&lines=Python+Developer;Data+scientist;Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&width=1000&lines=Python+Developer;Data+scientist;Full+Stack+Developer;PhP+Developer;javascript+scientist)](https://git.io/typing-svg)
 
 <img align="center" alt="GIF" src="https://github.com/sahilrajput2223/sahilrajput2223/blob/main/code.gif" width="100%" height = "100%" />
 
