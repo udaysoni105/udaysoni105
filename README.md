@@ -104,7 +104,7 @@
 
 ## 📊 Github Stats:
 
-<p align="center">udaysoni105
+<p align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=udaysoni105&show_icons=true&theme=tokyonight&line_height=28">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaysoni105&langs_count=10&layout=compact">
