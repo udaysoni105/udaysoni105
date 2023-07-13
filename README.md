@@ -98,8 +98,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=udaysoni105&show_icons=true)
 
-![Profile views](https://gpvc.arturio.dev/udaysoni105)
-
 ---
 
 ## 📊 Github Stats:
