@@ -81,13 +81,14 @@
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-3333a4.svg?logo=CS&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-</p>sublime
+</p>
 ---
 ## Progamming
+### 🌎 Web-Development
 
 
 ###  👨‍💻  Programming languages
-<!-- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCMS8crvN1a1SPjTqc8N26FA?style=social) -->
+ ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCMS8crvN1a1SPjTqc8N26FA?style=social) 
 <p align='left'>
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c.svg" alt="C language" height="50" width="50" />
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c%2B%2B.svg" alt="C++ language" height="50" width="50" /> 
@@ -95,10 +96,8 @@
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/java.svg" alt="java" height="50" width="50" /> 
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/javascript.svg" alt="bablubambal" height="50" width="50" /> 
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/typescript.svg" alt="bablubambal" height="50" width="50" /> 
-
 </p>
 
-### 🌎 Web-Development
 #### Front-End:
 
 <p align='left'>
